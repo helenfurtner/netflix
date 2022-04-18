@@ -9,5 +9,5 @@ Proyecto clon de Netflix - codo a codo
 
 ## Preview
 <p>
-    <img src="images/screenshot.png"/>
+    <img src="assets/images/screenshot.png"/>
 </p>
